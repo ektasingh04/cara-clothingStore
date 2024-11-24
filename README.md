@@ -1,1 +1,1 @@
-# cara-clothingStore
+# Cara Fashion Store
